@@ -1,0 +1,19 @@
+body {
+  margin: 0 !important;
+}
+h1 {
+  color: #fff;
+  font-size: 2rem;
+}
+h2 {
+  text-transform: capitalize;
+}
+
+@keyframes pokeball {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
